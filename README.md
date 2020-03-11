@@ -3,6 +3,6 @@
 
 ![Mahout](https://github.com/m-r-tanha/Apache-Mahout-/blob/master/imgres.jpg)
 
-#### step 1: install the "maven" and add it to the path the guidline can be see at [maven installation guid line](https://howtodoinjava.com/maven/how-to-install-maven-on-windows/)
+#### step 1: install the "maven", the guidline can be seen at [maven installation guid line](https://howtodoinjava.com/maven/how-to-install-maven-on-windows/)
 
 
